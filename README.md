@@ -14,6 +14,6 @@ The project is subdivided in directories:
 * src: containing source files (.cpp)
 * include: containig header files (.h, .cc)
     
-Moreover Make will be used to guarantee the automated way of compiling.
-If the project should grow in a way to make disturbing the use of Make, CMake will be used,
-in order to automatize the Make file generation used to build the executable (.out)
+Moreover Make will be used to guarantee the automation of the compiling process.
+If the project becomes too complex to use Make, CMake will be used,
+in order to automatize the Make file generation used to build the executables (.out).
