@@ -10,6 +10,7 @@ The goal is to simulate the solar system in C++, implementing a graphical motor 
 ## Struttura
 
 Il progetto è suddiviso in directories:
+
     * src: contiene i file source (.cpp)
     * include: contiene i file header (.h, .cc)
     
