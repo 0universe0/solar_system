@@ -7,13 +7,13 @@ The goal is to simulate the solar system in C++, implementing a graphical motor 
 
 ### Luca Tempesta, Paolo Rocchietti March, Alessandro Romanini
 
-## Struttura
+## Structure
 
-Il progetto è suddiviso in directories:
+The project is subdivided in directories:
 
-* src: contiene i file source (.cpp)
-* include: contiene i file header (.h, .cc)
+* src: containing source files (.cpp)
+* include: containig header files (.h, .cc)
     
-Inoltre utilizzeremo Make come strumento per gestire in modo automatizzato la compilazione.
-Se il progetto dovesse crescere in modo tale da rendere disturbante l'utilizzo stesso di Make,
-utilizzeremo CMake, rendendo così automatizzata la generazione di file Make utilizzati per buildare gli eseguibili (.o)
+Moreover Make will be used to guarantee the automated way of compiling.
+If the project should grow in a way to make disturbing the use of Make, CMake will be used,
+in order to automatize the Make file generation used to build the executable (.out)
