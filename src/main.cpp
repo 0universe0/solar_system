@@ -4,6 +4,6 @@
 #include <string>
 
 int main() {
-
+    std::cout << "geocentrism rocks!";
     return 0;
 }

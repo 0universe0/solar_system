@@ -1,2 +1,2 @@
 simulation:
-	g++ main.cpp -o simulation
+	g++ src/main.cpp -o bin/simulation
