@@ -11,8 +11,8 @@ The goal is to simulate the solar system in C++, implementing a graphical motor 
 
 Il progetto è suddiviso in directories:
 
-    * src: contiene i file source (.cpp)
-    * include: contiene i file header (.h, .cc)
+* src: contiene i file source (.cpp)
+* include: contiene i file header (.h, .cc)
     
 Inoltre utilizzeremo Make come strumento per gestire in modo automatizzato la compilazione.
 Se il progetto dovesse crescere in modo tale da rendere disturbante l'utilizzo stesso di Make,
