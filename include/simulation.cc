@@ -130,7 +130,7 @@ void setInitialConditions(std::vector<CelestialBody*>& bodies){
 	std::cout << "Choose one of the options above: ";
 	std::cin>>input;
 	std::cout << std::endl;
-	if(input <= 7 and input > 0) break;
+	if(input <= 8 and input > 0) break;
 	std::cout<<"Invalid option, try again\n";
     }
     if (input == 1){
