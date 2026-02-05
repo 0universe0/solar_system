@@ -1,5 +1,10 @@
 # Solar System
 
+## DISCLAIMER!
+
+This repository is orphaned, as we want to preserve the state of the project at the end of the course cited below.
+To see how this little project will continue, check out [this](https://github.com/pirosapphic/solar_system_reborn) fork of the repository.
+
 ## geocentrism rocks!
 
 Final project for the "Computing Techniques for Physics" course in the Bachelor's Degree in Physics at the University of Turin.
